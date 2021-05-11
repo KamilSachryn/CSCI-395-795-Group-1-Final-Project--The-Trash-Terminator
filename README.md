@@ -1,4 +1,4 @@
-# Recycling-VR-Game-in-School-Hallway
+# The Trash Terminator - CSCI 395/795 Final project Group 1
 A virtual reality game that is build on Android using google cardboard sdk
 
 ### Description
