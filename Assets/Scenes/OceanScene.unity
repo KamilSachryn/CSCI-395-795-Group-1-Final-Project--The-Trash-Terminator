@@ -34512,24 +34512,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9879bfe9cd8f07142a6ec1a50e405571, type: 3}
---- !u!1 &518314813 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100002, guid: fd9ab46b08952124992082ced640a5d6,
-    type: 3}
-  m_PrefabInstance: {fileID: 712072400}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &518314815
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 518314813}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1836a0255e0a48d429419fda97c602d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &523978286
 GameObject:
   m_ObjectHideFlags: 0
@@ -59587,24 +59569,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!1 &964328411 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100002, guid: eb62f7c9629266b4dbba6d3b496fad38,
-    type: 3}
-  m_PrefabInstance: {fileID: 2098276723}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &964328415
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 964328411}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1836a0255e0a48d429419fda97c602d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &974757645
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -59768,24 +59732,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60270cf52a5e94998a5a335989159738, type: 3}
---- !u!1 &1054053357 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100000, guid: fd9ab46b08952124992082ced640a5d6,
-    type: 3}
-  m_PrefabInstance: {fileID: 712072400}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1054053359
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1054053357}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1836a0255e0a48d429419fda97c602d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1058266522
 GameObject:
   m_ObjectHideFlags: 0
@@ -59798,7 +59744,6 @@ GameObject:
   - component: {fileID: 1058266523}
   - component: {fileID: 1058266526}
   - component: {fileID: 1058266525}
-  - component: {fileID: 1058266524}
   m_Layer: 0
   m_Name: Coral_Caustics_A
   m_TagString: Untagged
@@ -59821,19 +59766,6 @@ Transform:
   m_Father: {fileID: 1091548529}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1058266524
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 11419494, guid: 05e84c7238bdccb45a716fc1b161a977,
-    type: 3}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1058266522}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1836a0255e0a48d429419fda97c602d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!23 &1058266525
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -79480,24 +79412,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1297390003 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100004, guid: eb62f7c9629266b4dbba6d3b496fad38,
-    type: 3}
-  m_PrefabInstance: {fileID: 2098276723}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1297390007
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1297390003}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1836a0255e0a48d429419fda97c602d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1337433490
 GameObject:
   m_ObjectHideFlags: 0
@@ -89223,7 +89137,6 @@ GameObject:
   - component: {fileID: 1424204951}
   - component: {fileID: 1424204955}
   - component: {fileID: 1424204954}
-  - component: {fileID: 1424204953}
   m_Layer: 0
   m_Name: Coral_Caustics_B
   m_TagString: Untagged
@@ -89246,18 +89159,6 @@ Transform:
   m_Father: {fileID: 1091548529}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1424204953
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1424204950}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!23 &1424204954
 MeshRenderer:
   m_ObjectHideFlags: 0
