@@ -2,19 +2,14 @@
 A virtual reality game that is build on Android using google cardboard sdk
 
 ### Description
-The hallway is designed to be endless. Once the player triggers an invisible game object at the end of the hallway, 
-it will initialize a new hallway and connects to the very end. The hallway in the very beginning will be destroyed after a certain time 
-period to avoid too many game objects existing at the same time. The trash are rendered randomly for each category. 
-There are green, blue, and black colors on the floor indicating the  correct trash bin color that trash. For example, 
-the trash that appears on the top of blue section floor should be collected with blue trash bin.
+The game consists of 4 different scenes with each taking place in park, school, beach and restaurant themes. The player gets to choose which scene to play in at the starting menu of the game. Within each scene, the player will encounter corresponding theme wastes. The player will need to switch between different trash bins to collect wastes into the right bin. With each correctly classified wastes, the player will earn points. Likewise, points will be deducted with each failed attempt. This point system will help the player to keep track of their record and make the game more challenging!
 
 ### How to Play?
-The game is controlled via head-tracking using **Google cardboard VR**. The player can press the button to switch trash bins. 
-The player can look left or right to change the directions. Whenever the player looks down at a certain degree, 
-the player will constantly moving forward. If the player looks up, it would stop moving.
+
 
 ### Demo
-<img width=600px src="./demos/game_demo.gif">
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+
 
 ### Unity Version
 - **2019.4.19f1**
