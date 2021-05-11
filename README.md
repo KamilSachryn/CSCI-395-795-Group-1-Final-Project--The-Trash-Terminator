@@ -8,7 +8,7 @@ The game consists of 4 different scenes with each taking place in park, school, 
 
 
 ### Demo
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Alt text](https://img.youtube.com/vi/Si0KawMS47I/0.jpg)](https://www.youtube.com/watch?v=Si0KawMS47I)
 
 
 ### Unity Version
